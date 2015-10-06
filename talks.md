@@ -94,7 +94,7 @@
     - generating models of architecture based on the environment (ie. software that builds structures within empty space of surrounding architecture)
     - traditional techniques from other fields applied to architecture (lace-making, sail-making, etc.)
   - quotes:
-    - "It's amazing how you can transform a neighborhood just with a plastic bag."
+    - *"It's amazing how you can transform a neighborhood just with a plastic bag."*
   - __MY OPINION:__
     - interesting but useless?
     - useful for temporary/ephemeral architecture, events... only?
@@ -118,18 +118,88 @@
 
 ## Bill Washabaugh
 
-
+  - Good lesson for "When you can make anything, what do you make?
+    - must narrow down the 'motif'
+    - limit the scope/content to what the audience will realistically take the time to witness
+    - simplify the technology to support only the content we chose
+  - Good process delimitation
+    1. start with sketch in Processing, to make a physical test
+    2. build Prototypes after Prototypes
+    3. finesse the engineering & calculations in Solid Works
+    4. finally, a Long Term Test (since things go out of whack)
+  - quotes:
+    - *"When you can make anything, what do you make?"*
+  - __MY OPINION:__
+    - nice straight-forward advice and iterative process
+    - transmits love & passion for beautiful, simple science and phenomena in nature, to inspire the work
 
 ## Kristin Neidlinger
 
+  - founder @ Sensoree, a sensorial clothing company
+  - quotes:
+    - *"I'm very excited about the future and having a living closet."* (on the future of interactive clothing)
+    - *"As a designer, I'm not opposed to anything, I'm open to everything. I'm just interested in how people use the tools and things I make."* (on whether she agrees with certain uses for interactive clothing, but instead focuses on reacting to users and their needs/desires)
+  - __MY OPINION:__
+    - very superficial intentions and products
+
 ## Cyril Diagne
+
+  - partner @ French studio Lab212, prof @ ECAL Media + Interaction program
+  - quotes:
+    - *"It's okay to keep things small and simple."* (on how to start projects)
+    - *"Share & document everything!"* (on importance of today's community and learning from others)
+  - __MY OPINION:__
+    - one of my favourite speakers
+    - some poetic work that avoids being too LITERAL or obvious (like a lot of work seen at the conference)
+    - simplicity of work can still sometimes be obvious, but with the right sensibility, that simplicity can be what allows people to hack it, appropriate it and make it their own (like for project 'Portee')
 
 ## Mary Franck
 
-## Chris Coleman & Laleh Mehran
+  - interested in:
+    - where we should position ourselves, in Art or Tech world?
+    - both have Pros and Cons
+    - but mostly, both have no good financial model
+      - MONEY, the elephant in the room!
+  - learning from Architecture (the discipline):
+    - much critical discourse about our own work, together (by doing crits, etc.)
+    - critique is by fellow architects, not art critics or non-practitionners
+    - string connection between practice & academia
+  - lessons:
+    1. write about your work (critically)
+    2. talk about aesthetics (don't be afraid)
+    3. own your profession (be a part of it)
+  - __MY OPINION:__
+    - great, direct, and to-the-point talk
 
 ## Nataly Gattegno
 
+  - is partner @ Future Cities Lab, prof @ California College of the Arts in San Francisco
+  - their work is some of most similar to SOSO seen at conference
+  - have a fabrication company called 'Machinic' too
+  - high level of polish in their fabricated works
+  - __MY OPINION:__
+    - the content of their work is also very buzzwordy/trendy for these times ('nature inspired', 'speculative', 'responds to... everything', 'data driven', etc.)
+    - fabrication quality of the work is top tier, still quite beautiful
+    - concept quality is just alright
+    - seems more 'gadget-y' and in love with tech rather than having a strong concept or intention
+    - she would be a great resource since her work is similar to SOSO's
+
 ## Yael Braha
 
+  - now freelance in Montreal, worked @ Obscura Digital
+  - now as a freelancer, creates urban interactive installations
+  - __MY OPINION:__
+    - aesthetically boorish, mediocre level
+    - conceptually absent, no goal or intention it seems
+    - projects looked on very tight budget, which doesn't help of course
+    - simply in love with tech gadgetry, like many presenters at conference
+
 ## Keri Elmsly
+
+  - now works @ Second Story as Creative Director
+  - producer behind large interactive projects by UVA, the Drone Orchestra at the Barbican, etc.
+  - __MY OPINION:__
+    - seems like tough, hard-working, honest person. No gadgetry bullshit for no purpose.
+    - is art focused, worked on performance art events
+    - her motto is "It's all about love", ie. caring for who you work with and coaxing the best out of them
+    - no real interest for SOSO, though she is important in the field and very well connected
