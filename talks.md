@@ -2,7 +2,7 @@
 
 ## Kawandeep Virdee
 
-  - partner @ New American Public Art
+  - founder @ [New American Public Art](http://www.newamericanpublicart.com/), works @ Embedly, has a [blog](http://blog.whichlight.com/) where he makes cool gifs
   - lives in Boston
   - started with group exercise with breathing and an animating colored gradient GIF on projection. A little bit mystical/yoga-ish.
   	- goal: let's all do an actual "interactive experience" with actual PHYSICAL PEOPLE! Not on the screen!
@@ -12,6 +12,7 @@
 
 ## Toni Dove
 
+  - [website](http://tonidove.com/)
   - very personal art approach: live multimedia performances
   - artist with history and longevity
   - her work has many LAYERS of
@@ -24,7 +25,7 @@
 
 ## Johanna Marsal
 
-  - works @ Moment Factory
+  - works @ [Moment Factory](http://www.momentfactory.com/en)
   - MF's credo: "We do it in public"
     - goal: to recreate the communion, the social campfire
       - = the digital campfire
@@ -49,7 +50,7 @@
 
 ## Ruairi Glynn
 
-  - director of Masters architecture programme @ UCL/Bartlett
+  - [website](http://www.ruairiglynn.co.uk/), director of [Interactive Architecture Lab](http://www.interactivearchitecture.org/) @ UCL/Bartlett
   - interested in robotics + behaviour + architecture:
     - letting people take control of their architecture
     - architecture that builds itself, shapes itself, finds the best shape for the situation or for best interaction
@@ -70,7 +71,7 @@
 
 ## Yasuaki Kakehi
 
-  - prof @ Keio University; currently doing stint @ Fluid Interfaces Group, MIT; founder @ Plaplax
+  - [prof @ Keio University](http://www.xlab.sfc.keio.ac.jp/); currently doing stint @ Fluid Interfaces Group, MIT; founder @ [Plaplax](http://www.plaplax.com/)
   - his tendencies are:
     - creating novel ways of interacting with objects
     - magic
@@ -87,6 +88,7 @@
 
 ## Rachel Wingfield
 
+  - founder @ [Loop.ph](http://loop.ph/)
   - arch + tech + science
   - her best employee is a SAILOR! (makes inflatable structures using traditional sail-building techniques)
   - interested in:
@@ -104,7 +106,7 @@
 
 ## Filipa Valente
 
-  - is architect, who likes to espace her real job (large architecture) by making small-scale spaces + people + interaction
+  - [website](http://cargocollective.com/limilab), is architect, who likes to espace her real job (large architecture) by making small-scale spaces + people + interaction
   - interested in 'play'
   - __MY OPINION:__
     - artistically, her work is personal, beautiful peotic, subtle
@@ -113,12 +115,14 @@
 
 ## Daniel Rozin
 
+  - [website](http://www.smoothware.com/danny/)
   - no notes
   - __MY OPINION:__
     - impressed at his ownership of his being "the mirror guy". Has accepted his lifelong artistic subject.
 
 ## Bill Washabaugh
 
+  - founder @ [Hypersonic](http://www.hypersonic.cc/)
   - Good lesson for "When you can make anything, what do you make?
     - must narrow down the 'motif'
     - limit the scope/content to what the audience will realistically take the time to witness
@@ -136,7 +140,7 @@
 
 ## Kristin Neidlinger
 
-  - founder @ Sensoree, a sensorial clothing company
+  - founder @ [Sensoree](http://sensoree.com/), a sensorial clothing company
   - quotes:
     - *"I'm very excited about the future and having a living closet."* (on the future of interactive clothing)
     - *"As a designer, I'm not opposed to anything, I'm open to everything. I'm just interested in how people use the tools and things I make."* (on whether she agrees with certain uses for interactive clothing, but instead focuses on reacting to users and their needs/desires)
@@ -145,7 +149,7 @@
 
 ## Cyril Diagne
 
-  - partner @ French studio Lab212, prof @ ECAL Media + Interaction program
+  - [website](http://cyrildiagne.com/), partner @ French studio [Lab212](http://www.lab212.org/), prof @ [ECAL Media + Interaction program](http://www.ecal.ch/en/1103/studies/bachelor/media-interaction-design/projects-workshops)
   - quotes:
     - *"It's okay to keep things small and simple."* (on how to start projects)
     - *"Share & document everything!"* (on importance of today's community and learning from others)
@@ -156,6 +160,7 @@
 
 ## Mary Franck
 
+  - [website](http://www.maryfranck.net/)
   - interested in:
     - where we should position ourselves, in Art or Tech world?
     - both have Pros and Cons
@@ -174,7 +179,7 @@
 
 ## Nataly Gattegno
 
-  - is partner @ Future Cities Lab, prof @ California College of the Arts in San Francisco
+  - is partner @ [Future Cities Lab](http://www.future-cities-lab.net/), prof @ California College of the Arts in San Francisco
   - their work is some of most similar to SOSO seen at conference
   - have a fabrication company called 'Machinic' too
   - high level of polish in their fabricated works
@@ -187,7 +192,7 @@
 
 ## Yael Braha
 
-  - now freelance in Montreal, worked @ Obscura Digital
+  - [website](http://www.yaelbraha.com/), now freelance in Montreal, worked @ Obscura Digital
   - now as a freelancer, creates urban interactive installations
   - __MY OPINION:__
     - aesthetically boorish, mediocre level
@@ -197,7 +202,7 @@
 
 ## Keri Elmsly
 
-  - now works @ Second Story as Creative Director
+  - [website](http://cargocollective.com/elmsly), now works @ [Second Story](http://secondstory.com/) as Creative Director
   - producer behind large interactive projects by UVA, the Drone Orchestra at the Barbican, etc.
   - is art focused, worked on performance art events
   - her motto is "It's all about love", ie. caring for who you work with and coaxing the best out of them

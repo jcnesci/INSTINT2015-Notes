@@ -17,6 +17,6 @@
   - data driven
   - social media
 
-## Resources
+## New Resources
 
-	- Machinic, fabrication company in San Francisco, by Future Cities Lab
+	- [Machinic](http://www.machinic.us/), fabrication company in San Francisco, by Future Cities Lab
