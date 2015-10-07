@@ -2,7 +2,7 @@
 
 ## Kawandeep Virdee
 
-  - part of company New American Public Art
+  - partner @ New American Public Art
   - lives in Boston
   - started with group exercise with breathing and an animating colored gradient GIF on projection. A little bit mystical/yoga-ish.
   	- goal: let's all do an actual "interactive experience" with actual PHYSICAL PEOPLE! Not on the screen!
@@ -22,8 +22,9 @@
   - __MY OPINION:__
     - very personal art, not much related to Soso. Very 90's video performance style, but nice.
 
-## Johanna Marsal, Moment Factory
+## Johanna Marsal
 
+  - works @ Moment Factory
   - MF's credo: "We do it in public"
     - goal: to recreate the communion, the social campfire
       - = the digital campfire
@@ -69,7 +70,7 @@
 
 ## Yasuaki Kakehi
 
-  - prof @ Keio University; currently doing stint at Fluid Interfaces Group @ MIT; has company Plaplax
+  - prof @ Keio University; currently doing stint @ Fluid Interfaces Group, MIT; founder @ Plaplax
   - his tendencies are:
     - creating novel ways of interacting with objects
     - magic
@@ -198,8 +199,8 @@
 
   - now works @ Second Story as Creative Director
   - producer behind large interactive projects by UVA, the Drone Orchestra at the Barbican, etc.
+  - is art focused, worked on performance art events
+  - her motto is "It's all about love", ie. caring for who you work with and coaxing the best out of them
   - __MY OPINION:__
     - seems like tough, hard-working, honest person. No gadgetry bullshit for no purpose.
-    - is art focused, worked on performance art events
-    - her motto is "It's all about love", ie. caring for who you work with and coaxing the best out of them
     - no real interest for SOSO, though she is important in the field and very well connected
