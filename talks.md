@@ -55,6 +55,7 @@
     - letting people take control of their architecture
     - architecture that builds itself, shapes itself, finds the best shape for the situation or for best interaction
     - buildings that communicate between each other (protocols?) adapting to current situation (traffic, etc.)
+    - references to Gordon Pask, Rodney Brooks, Vitruvius' being the first writer on architecture and mentioning robotics
   - quotes:
     - *"If you want to encourage empathy, mirroring is a great behaviour."* (on the behaviour of his project Fearful Symmetry, where a robot follows and interacts with people in a room)
     - *"Making a more physical & tactile design process of architecture..."* (on the way he conducts his teaching @ UCL, using much prototyping and building)
