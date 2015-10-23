@@ -15,6 +15,7 @@ Links from conference about anything & everything.
   - [Rachel Wingfield](http://loop.ph/)
   - [Toni Dove](http://tonidove.com/)
   - [Moment Factory](http://www.momentfactory.com/en)
+  - Russ Rive & Liana Brazil from [SuperUber](http://www.superuber.com/)
 
 ## Twitter accounts
 
