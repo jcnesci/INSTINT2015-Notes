@@ -1,4 +1,4 @@
-# My Thoughts
+# Our Thoughts
 
 ## Conference trends this year
 
